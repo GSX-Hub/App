@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Setup Webhook
-      - uses: sarisia/actions-status-discord@v1
+        uses: sarisia/actions-status-discord@v1
         if: always()
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
