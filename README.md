@@ -19,3 +19,8 @@ GSX Hub is an installation / manager tool for GSX profiles. It's easy to use and
 
 ## Contributing
 - 🚦 Read our [contributing guide](https://github.com/GSX-Hub/Profiles/wiki)
+
+## Support the App
+- The App's infrastructure costs roughly £15 GBP every month to upkeep. If you like it and would love to help support, please follow the links to support.
+- Any donation, great or small will be solely used towards the upkeep of infrastructure.
+- If you'd like to go above and beyond that, I would be grateful if you dropped by one of my rare [Twitch](https://www.twitch.tv/hinshee) streams and said hi! The app is made for the community, so it would make may day to hear from you.
