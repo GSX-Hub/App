@@ -2,7 +2,7 @@ name: Discord Release Notification
 
 on:
   release:
-    types: [published, edited]
+    types: [published]
 
 jobs:
   discordNotification:
@@ -18,7 +18,7 @@ jobs:
           title: "New `GSX Hub` version is released!"
           description: |
             Version `${{ github.event.release.tag_name }}`
-            Click [here](${{ github.event.release.html_url }}) to download!
-            ${{ github.event.release.body }}
-          color: 0xff91a4
+            _ _
+            Click [here](${{ github.event.release.html_url }}) to download / see the changelog!
+          color: 1b1b1b
           username: GSX Hub
