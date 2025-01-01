@@ -1,0 +1,23 @@
+name: Discord Release Notification
+
+on:
+  release:
+    types: [published, edited]
+
+jobs:
+  publish-discord:
+
+  steps:
+    - name: Setup Webhook
+    - uses: sarisia/actions-status-discord@v1
+  if: always()
+  with:
+    webhook: ${{ secrets.DISCORD_WEBHOOK }}
+    nodetail: true
+    title: "New `GSX Hub` version is released!"
+    description: |
+      Version `${{ github.event.release.tag_name }}`
+      Click [here](${{ github.event.release.html_url }}) to download!
+      ${{ github.event.release.body }}
+    color: 0xff91a4
+    username: GSX Hub
