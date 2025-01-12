@@ -1,6 +1,6 @@
 ---
 name: 🛠️ Feature Request
-description: Suggest an idea to help us improve W&B
+description: Suggest an idea to help improve GSX Hub
 title: "[Feature]: "
 labels:
   - "ty:feature"
@@ -10,11 +10,8 @@ body:
     attributes:
       value: >
         **Thanks :heart: for taking the time to fill out this feature request report!** We kindly ask that you search to
-        see if an issue [already exists](https://github.com/wandb/wandb/issues?q=is%3Aissue+sort%3Acreated-desc+) for
+        see if an issue [already exists](https://github.com/GSX-Hub/App/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) for
         your feature.
-
-        We are also happy to accept contributions from our users. For more details see
-        [here](https://github.com/wandb/wandb/blob/master/CONTRIBUTING.md).
 
   - type: textarea
     attributes:
@@ -25,14 +22,3 @@ body:
         <!--- Describe your feature here --->
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Suggested Solution
-      description: >
-        Describe the solution you'd like. A clear and concise description of what you want to happen. If you have
-        considered alternatives, please describe them.
-      value: |
-        <!--- Describe your solution here --->
-    validations:
-      required: false
