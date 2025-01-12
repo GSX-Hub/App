@@ -3,7 +3,8 @@ name: 🛠️ Feature Request
 description: Suggest an idea to help improve GSX Hub
 title: "[Feature]: "
 labels:
-  - "ty:feature"
+  - "enhancement"
+assignees: Hinshee
 
 body:
   - type: markdown
