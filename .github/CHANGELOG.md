@@ -1,3 +1,15 @@
+# 0.1.21
+> Hot Fix for 0.1.2.
+
+## Fixed
+* Inability to switch between Stable and Beta channels
+* App Version Numbering not displaying correct version. Now based off Velopack.
+
+## Added
+* Exception Logging
+
+***
+
 # 0.1.2
 ## Fix
 * [#1](https://github.com/GSX-Hub/App/issues/1) - Not being able to select GSX folder.
