@@ -1,3 +1,16 @@
+# 0.1.3-dev2
+## Features
+* Added `Update Available` switch on `Download`
+* Added `Update All` functionality when `Update Available` switch on `Download` is selected
+* Added Refresh Button on `Download`
+* Added One-Click Install on `Download` with additional user prompt if more than one configuration is available ([#2](https://github.com/GSX-Hub/App/issues/2))
+* Added Textual Changelog ([#4](https://github.com/GSX-Hub/App/issues/4)) - Profile Template updated to reflect changes
+
+## Fixed
+* Updated Icons on `Download` to reflect updates and currently installed
+
+***
+
 # 0.1.3-dev1
 ## Note
 This first beta release is primarily to test switching between the two channels.
