@@ -1,3 +1,13 @@
+# 0.1.3-dev3
+## Features
+* Added: Resize Tables and Content to Fit Window (#7)
+
+## Fixed
+* Table Buttons Padding Inconsistent
+* Repositioned `Update All` Button
+
+***
+
 # 0.1.3-dev2
 ## Features
 * Added `Update Available` switch on `Download`
