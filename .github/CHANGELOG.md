@@ -1,3 +1,19 @@
+# 0.2.0
+## Features
+* Added: Resize Tables and Content to Fit Window ([#7](https://github.com/GSX-Hub/App/issues/7))
+* Added `Update Available` switch on `Download`
+* Added `Update All` functionality when `Update Available` switch on `Download` is selected
+* Added Refresh Button on `Download`
+* Added One-Click Install on `Download` with additional user prompt if more than one configuration is available ([#2](https://github.com/GSX-Hub/App/issues/2))
+* Added Textual Changelog ([#4](https://github.com/GSX-Hub/App/issues/4)) - Profile Template updated to reflect changes
+
+## Fixed
+* Updated Icons on `Download` to reflect updates and currently installed
+* Table Buttons Padding Inconsistent
+* Repositioned `Update All` Button
+
+***
+
 # 0.1.21
 > Hot Fix for 0.1.2.
 
