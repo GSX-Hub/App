@@ -1,3 +1,12 @@
+# 0.2.1-dev1
+## Features
+* Added: Recommended Profiles (MSFS2020 & 2024 Support)
+* Added: Compatible / Not Compatible Tabs (Explorer Page)
+* Added: GH Sponsors
+* Added: Docs Link
+
+***
+
 # 0.1.3-dev3
 ## Features
 * Added: Resize Tables and Content to Fit Window (#7)
