@@ -1,5 +1,13 @@
 # 0.2.1-dev1
 ## Features
+* Added: Sponsors Link for Creators
+* Added: Update Available Tag in `Installed`
+* Patched Velopack
+
+***
+
+# 0.2.1-dev1
+## Features
 * Added: Recommended Profiles (MSFS2020 & 2024 Support)
 * Added: Compatible / Not Compatible Tabs (Explorer Page)
 * Added: GH Sponsors
