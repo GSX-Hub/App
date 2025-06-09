@@ -1,4 +1,4 @@
-# 0.2.1-dev1
+# 0.2.1-dev2
 ## Features
 * Added: Sponsors Link for Creators
 * Added: Update Available Tag in `Installed`
